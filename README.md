@@ -16,7 +16,7 @@ This project presents an interactive healthcare cost analysis dashboard built us
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 ![Daset](Dataset.png)
 ![Dataset](dataset.png)
 
