@@ -10,15 +10,15 @@ This project presents an interactive healthcare cost analysis dashboard built us
 
 ### 🔹 Excel Dashboard File
 
-[Download Excel File](Healthcare.xlsx)
+[Download Excel File](Healthcare-cost-analysis-dashboard.xlsx)
 
 ---
 
 ## 🖼️ Dashboard Preview
 
 ![Dashboard](dashboard.png)
-![Dashboard](dashboard.png)
-![Dashboard](dashboard.png)
+![Daset](Dataset.png)
+![Dataset](dataset.png)
 
 ---
 
